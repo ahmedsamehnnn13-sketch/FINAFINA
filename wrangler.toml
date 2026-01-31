@@ -1,0 +1,6 @@
+name = "uniojjjjj"
+main = "main.py"
+compatibility_date = "2024-01-01"
+
+[vars]
+TOKEN = "8291199369:AAEb2j0gE0PGR5aGh0R8Rt1h6ezd1mmYUTM"
